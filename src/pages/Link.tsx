@@ -6,7 +6,7 @@ import { Fade } from "react-awesome-reveal";
 // import LinkedInIcon from '@mui/icons-material/LinkedIn';
 // import EmailIcon from '@mui/icons-material/Email';
 
-function Web() {
+function Link() {
     return (
         <div className="App">
             <Fade delay={500}>
@@ -18,4 +18,4 @@ function Web() {
     );
 }
 
-export default Web;
+export default Link;
