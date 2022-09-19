@@ -2,7 +2,9 @@ import React from 'react';
 
 function Blogs() {
     return (
-        <h1>this is the blogs</h1>
+        <div className='linkpage'>
+            <h1 className='link'>glotov.com</h1>
+        </div>
     );
 }
 
