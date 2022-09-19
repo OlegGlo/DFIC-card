@@ -1,13 +1,13 @@
 import React from "react";
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
 import Home from './Home';
 import Projects from './Projects';
 import Contact from './Contact';
 import About from './About';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { Link } from "react-router-dom";
-import NavBar from './';
+import { BrowserRouter as Routes, Route } from 'react-router-dom';
+// import { Link } from "react-router-dom";
+import NavBar from './NavBar';
 
 function App() {
     return (
