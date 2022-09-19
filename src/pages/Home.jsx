@@ -29,6 +29,15 @@ function Home() {
                             <LinkedInIcon sx={{ fontSize: 55, color: 'black' }} />
                         </a>
                     </div>
+                    <h1>Roberto Rossi</h1>
+                    <div className='links'>
+                        <a href="mailto:rossir2@mcmaster.ca">
+                            <EmailIcon sx={{ fontSize: 55, color: 'black' }} />
+                        </a>
+                        <a href="https://www.linkedin.com/in/rossir2/">
+                            <LinkedInIcon sx={{ fontSize: 55, color: 'black' }} />
+                        </a>
+                    </div>
                 </Fade>
             </div>
         </div>
